@@ -1,9 +1,9 @@
 DHAFA FIRJATULLAH HIKMAL (362358302074)
 -
 
-**1. Register User 
+1. Register User 
 ![1](https://github.com/user-attachments/assets/4616de0e-e610-4272-9300-7dc5fa4a264a)
-**
+-
 
 2. Login User 
 ![2](https://github.com/user-attachments/assets/6a9303c4-f65c-4788-b87e-e187fe84beab)
